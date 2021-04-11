@@ -44,3 +44,17 @@
     margin: 5px;
     padding: 5px;
 }
+
+.day_or_night {
+    width: 30px;
+    height: 30px;
+    padding-right: 5px;
+}
+
+.fas.fa-sun {
+    color: rgb(248, 229, 55);
+}
+
+.fas.fa-moon {
+    color: rgb(144, 144, 233);
+} 
